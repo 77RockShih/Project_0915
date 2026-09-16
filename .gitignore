@@ -1,0 +1,17 @@
+# build artifacts
+*.o
+*.a
+*.so
+*.d
+/build/
+a.out
+
+
+# audio data
+*.wav
+!data/sample/*.wav
+
+# editor
+.vscode/
+*.swp
+
